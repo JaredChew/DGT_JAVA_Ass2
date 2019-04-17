@@ -1,0 +1,8 @@
+2017/04/25 13:58:10 Initialising
+2017/04/25 13:58:10 Data loaded
+2017/04/25 13:58:10 +--- Main menu ---+
+2017/04/25 13:58:10 Export button clicked
+2017/04/25 13:58:10 Inventory exported to C:\Users\Marissa\Desktop\Assignment2_GUI\src\InventoryExport
+2017/04/25 13:58:10 Close button clicked
+2017/04/25 13:58:10 Closing application
+2017/04/25 13:58:10 Exporting log file
